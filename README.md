@@ -6,6 +6,6 @@
 <h2 > <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"> 个人简介</h2>
 <div> 
   <ul>
-    <li>🏦 研一在读，目前专注于后端开发，主要语言为Java</li>
+    <li>🏦 研一在读，主要开发语言为Java</li>
   </ul>
 </div>
