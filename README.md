@@ -3,4 +3,5 @@
 
 <ul>
   <li>🏫 A Second-year Graduate Student | BUPT </li>
+  <li>💼 I am currently an intern in the Resource Scheduling Department at Meituan</li>
 </ul>
