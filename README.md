@@ -10,4 +10,6 @@
 
 ### Internship：
 - [**Meituan**](https://www.meituan.com/)--**Resource Scheduling Department** ---`From 2024.9 to 2025.1.`
+
+<img width="1047" height="450" alt="image" src="https://github.com/MatthewAden/data-structure/blob/master/5391735569653_.pic.jpg">
  
