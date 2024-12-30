@@ -1,7 +1,13 @@
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=MatthewAden&theme=omni&count_private=true&card_width=250" />
 
-<h2 > <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"> 个人简介</h2>
+### Hi 👋  I'm Matthew
 
-<ul>
-  <li>🏫 A Second-year Graduate Student | BUPT </li>
-  <li>💼 I am currently an intern in the Resource Scheduling Department at Meituan</li>
-</ul>
+- 🏫 A Second-year Graduate Student | BUPT
+- 🤨 I'm currently studying Backend development and Infrastructure
+- 🔭 Currently working on Nacos
+- 🌱 Looking to collaborate on more open-source projects
+- 📫 Feel free to email me, looooooove to make friends
+
+### Internship：
+- [**Meituan**](https://www.meituan.com/)--**Resource Scheduling Department** ---`From 2024.9 to 2025.1.`
+ 
